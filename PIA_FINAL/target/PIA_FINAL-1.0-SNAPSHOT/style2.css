@@ -1,0 +1,18 @@
+#header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 10px 15px;
+    background-color: black;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+ 
+#content {
+    height: 100%;
+    overflow: auto;
+    padding: 0% 1% 0% 1%;
+    width: 98%;
+}
+
+
